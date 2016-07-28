@@ -8,7 +8,8 @@ module.exports = {
         "miscellaneous": "Miscellaneous"
     },
     education_type: {
-        "undergraduate": "(Bachelor's degree)"
+        "undergraduate": "(Bachelor's degree)",
+        "postgraduate": "(Master's degree)"
     },
     link_type: {
         "zhihu": "Zhihu",

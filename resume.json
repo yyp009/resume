@@ -1,25 +1,25 @@
 {
   "data_lang": "zh-CN",
   "ga_id": "UA-63818301-2",
-  "resume_title": "张秋怡 - 个人简历",
-  "name": "张秋怡",
+  "resume_title": "余友鹏 - 个人简历",
+  "name": "余友鹏",
   "repo": "https://github.com/joyeecheung/resume.git",
-  "job_description": ["前端工程师", "软件工程师"],
+  "job_description": ["JAVA研发工程师", "WEB开发工程师"],
   "contact": {
-    "email": "joyeec9h3@gmail.com",
+    "email": "sober009@qq.com",
     "wechat": {
-      "id": "joyee-cheung",
+      "id": "RainSorrowForWho",
       "qrcode": "static/wechat.svg"
     },
     "sinaweibo": {
-      "id": "SYSU_Joyee",
-      "url": "http://weibo.com/2930876843"
+      "id": "Candyboy009",
+      "url": "http://weibo.com/u/2128157180"
     },
     "github": {
-      "id": "joyeecheung"
+      "id": "yyp009"
     },
     "blog": {
-      "url": "http://joyeecheung.cnblogs.com"
+      "url": "http://blog.csdn.net/yypsober"
     }
   },
   "links": [{
@@ -38,14 +38,24 @@
     "url": "http://book.douban.com/people/joyee-cheung/"
   }],
   "education": [{
-    "type": "undergraduate",
+    "type": "postgraduate",
     "name": "中山大学",
     "major": "软件工程",
-    "start": "2012",
-    "end": "2016",
+    "start": "2015",
+    "end": "2017",
     "honor": [
-      "2012 - 2013 学年度校**三等奖学金**",
-      "2013 - 2014 学年度校**一等奖学金**"
+      "2015.12 十一届中山大学'37游戏杯'软件创新开发大赛**一等奖**",
+      "2016.5  华为2016'未来网络-寻路'软件精英挑战赛赛区**三等奖**"
+    ]
+  },{
+    "type": "undergraduate",
+    "name": "重庆大学",
+    "major": "网络工程",
+    "start": "2009",
+    "end": "2013",
+    "honor": [
+      "2011 - 2012 学年度校**三等综合奖学金**",
+      "2012 - 2013 学年度校**三等综合奖学金**"
     ]
   }],
   "language": [{
@@ -53,11 +63,11 @@
     "certificate": [{
       "type": "CET-4",
       "full": "710",
-      "score": "679"
+      "score": "540"
     }, {
       "type": "CET-6",
       "full": "710",
-      "score": "616"
+      "score": "492"
     }],
     "description": [
       "能流畅阅读英文专业书籍、文档及其他资料",
