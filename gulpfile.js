@@ -34,7 +34,7 @@ function getLocals() {
 
 gulp.task('jade', function() {
   return gulp.src('./src/jade/index.jade')
-    .pipe(plugins.jade({ locals: getLocals() }))
+    .pipe(plugins.jade({ locals: getLocals(),pretty: true}))
     .pipe(gulp.dest('./dist/'));
 });
 

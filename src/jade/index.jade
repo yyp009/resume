@@ -9,7 +9,9 @@ block education
           time.education-time #{item.start} ~ #{item.end}
         dl.education-description.timeline-content
           dt.education-name= item.name
+            strong.education-en_name= item.en_name
           dd.education-major= item.major + education_type[item.type]
+            +rating(item.rate,item.sum)
           each honor in item.honor
             dd.education-honor!= highlight(honor)
 
@@ -45,7 +47,7 @@ block links
     ul.links
       each link in links
         li.link
-          a(href=link.url)= link_type[link.type]
+          a(href=link.url,id=link.type)= link_type[link.type]
 
 block repo
   p
