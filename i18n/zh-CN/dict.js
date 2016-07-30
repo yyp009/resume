@@ -35,6 +35,10 @@ module.exports = {
         "skills": {
             "ch": "技能",
             "en": "Skills"
+        },
+        "self_assessment": {
+            "ch": "自我评价",
+            "en": "Self-Assessment"
         }
     },
     lt_ie8_comment: "你正在使用 IE8 或更老的古董浏览器，还是快升级或者换浏览器吧~",

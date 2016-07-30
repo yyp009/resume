@@ -42,6 +42,12 @@ block skills
           span.skills-type= skill_type[item.type]
         +#{"skills_" + item.type}(item)
 
+block self_assessment
+  +section("self_assessment", false)
+    each item in self_assessment
+      ul.assessment-description
+        each desc in item.description
+          li.assessment-desc-item= desc
 
 block links
     ul.links
