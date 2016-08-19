@@ -20,7 +20,7 @@
   },
   "links": [{
     "type": "repo",
-    "url": "https://github.com/joyeecheung/resume"
+    "url": "https://github.com/yyp009/resume_sober"
 
   }, {
     "type": "pdf",
@@ -28,10 +28,10 @@
 
   }, {
     "type": "zhihu",
-    "url": "http://www.zhihu.com/people/zhang-qiu-yi-27/"
+    "url": "#"
   }, {
     "type": "doubanbook",
-    "url": "http://book.douban.com/people/joyee-cheung/"
+    "url": "#"
   }, {
     "type": "gen_pdf",
     "url": "#"
@@ -103,7 +103,7 @@
     "name": "WEB开发",
     "description": [
       "使用 `ROR` (`Ruby On Rails`) 开发框架完成新学院主页网站搭建，提供 `Restful API`",
-      "配合外包公司完成数字化校园项目统一认证接口，并将现有大部分网站系统与统一认证接口对接",
+      "配合完成数字化校园项目统一认证接口，并将现有大部分系统与统一认证接口对接",
       "使用 `Jquery` + `Bootstrap` + `Less` 完成项目的响应式前端组件和数据交互"
     ],
     "stack": ["jqueryui", "bootstrap", "jquery", "grunt", "less"],
@@ -114,7 +114,7 @@
     "item": [{
       "summary": "JAVA",
       "description": [
-        "熟悉 `JAVA SE`，包括 `JAVA集合框架` 、 `多线程编程` 、 `JVM规范` ，了解 `网络编程` 、 `反射机制`",
+        "熟悉 `JAVA SE`，包括 `JAVA集合框架` 、 `多线程（并发）编程` 、 `JVM规范` ，了解 `网络编程` 、 `反射机制`",
         "使用 `Spring` + `Struts` + `Mybatis` 搭建过简单的 `JAVA EE` 应用"
       ]
     }, {
@@ -127,7 +127,7 @@
       "summary": "数据库",
       "description": [
         "熟悉 `Mysql` 、 `SqlServer` 关系型数据库的使用，了解此类数据库的基本实现原理和基本优化方法",
-        "熟悉 `Redis` （`NoSql`） 的基本用法，在项目中将其作为缓存和短生命周期数据的存储"
+        "熟悉 `Redis` （`NoSql`） 的基本用法，在项目中使用其发布订阅实现系统间通信并将其作为缓存和短生命周期数据的存储"
       ]
     }, {
       "summary": "其他",
@@ -159,7 +159,7 @@
           "做事踏实，有较强的学习能力和分析解决问题能力",
           "乐于沟通，有团队合作精神",
           "遇事沉着，积极向上，热爱生活",
-          "专业知识掌握得不够深入，会一直努力改进"
+          "专业知识不够深入，会一直努力提高"
     ]
   }]
 }
